@@ -151,7 +151,7 @@ The cleaned and fully enriched dataset was exported as `cleaned_data.csv`, conta
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/student-performance-analysis.git
+git clone https://github.com/vidushanpathir505-bot/student-performance-analysis.git
 ```
 
 2. Install dependencies:
