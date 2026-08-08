@@ -8,9 +8,11 @@ A data analysis project built with Python and Pandas to clean, process, and anal
 
 ```
 student-performance-analysis/
-├── student_performance_analysis.ipynb   # Jupyter Notebook with full analysis
-├── data.csv                             # Raw dataset (100 students, 3 subjects)
-└── cleaned_data.csv                     # Exported clean and enriched dataset
+├── student_performance_analysis.ipynb
+├── data/
+│   ├── data.csv
+│   └── cleaned_data.csv
+└── README.md
 ```
 
 ---
